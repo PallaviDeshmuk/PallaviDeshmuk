@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>Java Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>This is demo RSS feed created for testing</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\Java.png</url>
+	</image> 
+  </item>
+  <item>
+    <title>Python Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>New XML tutorial on W3Schools</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\Python.jfif</url>
+	</image>
+	
+  </item>
+   <item>
+    <title>SQL Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>New RSS tutorial on W3Schools</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\SQL.jfif</url>
+	</image>
+  </item>
+   <item>
+    <title>MongoDb Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>New RSS tutorial on W3Schools</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\MongoDb.png</url>
+	</image>
+	
+  </item>
+   <item>
+    <title>C Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>New RSS tutorial on W3Schools</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\C.jfif</url>
+	</image>
+  </item>
+   <item>
+    <title>C++ Feed</title>
+    <link>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project</link>
+    <description>New RSS tutorial on W3Schools</description>
+	<image>
+	<url>C:\Users\Pallavi.Deshmukh\Downloads\RSS_Feed_Project\C++.jfif</url>
+	</image>
+  </item>
+</channel>
+
+</rss>
